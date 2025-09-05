@@ -13,7 +13,6 @@
       <Folder Include="Domain\Student\" />
       <Folder Include="Infrastructure\AppDbService\" />
       <Folder Include="Infrastructure\AuthService\" />
-      <Folder Include="Presentation\ApiController\" />
       <Folder Include="Presentation\ApiDtos\" />
     </ItemGroup>
 
