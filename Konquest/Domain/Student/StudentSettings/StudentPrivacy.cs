@@ -1,6 +1,5 @@
-﻿namespace Konquest.Student.Model.StudentSettings;
+﻿using Konquest.Student.Model.StudentSettings.Helpers;
 
-public class StudentPrivacy
-{
-    
-}
+namespace Konquest.Student.Model.StudentSettings;
+
+public record StudentPrivacy(ViewAccess ProfileViewAccess, ViewAccess ProgressViewAccess);

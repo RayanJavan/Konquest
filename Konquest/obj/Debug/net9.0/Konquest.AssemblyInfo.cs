@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konquest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb77c8edbe01f15061068cef61afcafc0e1ef57a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konquest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konquest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,3 @@
 ﻿namespace Konquest.Student.Model.StudentSettings;
 
-public class StudentProfile
-{
-    
-}
+public record StudentProfile(string? FirstName, string? LastName, string? Email, string? PhoneNumber, string ProfilePicUrl);

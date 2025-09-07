@@ -1,6 +1,3 @@
 ﻿namespace Konquest.Student.Model.StudentCoach;
 
-public class StudentCoachSettings
-{
-    
-}
+public class StudentCoachSettings(bool CanModifyDirectly);

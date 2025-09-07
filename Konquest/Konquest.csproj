@@ -10,7 +10,6 @@
     <ItemGroup>
       <Folder Include="Business\Coach\CoachDataService\" />
       <Folder Include="Domain\Coach\CoachData\" />
-      <Folder Include="Domain\Student\" />
       <Folder Include="Infrastructure\AppDbService\" />
       <Folder Include="Infrastructure\AuthService\" />
       <Folder Include="Presentation\ApiDtos\" />
